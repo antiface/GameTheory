@@ -6,7 +6,7 @@ Libraries, Modules, Code for Game Theory
 * numpy.linalg: [Docs] (http://docs.scipy.org/doc/numpy/reference/routines.linalg.html)
 * Gambit: Software Tools for Game Theory: [Docs] (http://www.gambit-project.org/doc/index.html)
 * Gambit: Software Tools for Game Theory: [Source] (https://github.com/gambitproject/gambit)
-* [A python implementation of Counterfactual Regret Minimization for poker] (https://github.com/antiface/pycfr)
+* [[FORK] A python implementation of Counterfactual Regret Minimization for poker] (https://github.com/antiface/pycfr)
 * [pure python poker hand evaluator for 5, 6, 7 cards] (https://github.com/antiface/pokerhand-eval)
 * [Counterfactual-Regret-Minimization] (https://github.com/antiface/Counterfactual-Regret-Minimization)
 * [An implementation of Counterfactual Regret Minimization (CFR) via Temporal Difference (TD) learning] (https://github.com/antiface/td_cfr)
