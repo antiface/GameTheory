@@ -10,8 +10,7 @@ Libraries, Modules, Code for Game Theory
 * [pure python poker hand evaluator for 5, 6, 7 cards] (https://github.com/antiface/pokerhand-eval)
 * [Counterfactual-Regret-Minimization] (https://github.com/antiface/Counterfactual-Regret-Minimization)
 * [An implementation of Counterfactual Regret Minimization (CFR) via Temporal Difference (TD) learning] (https://github.com/antiface/td_cfr)
-* [Pareto_Regret_Frontier](https://github.com/antiface/Pareto_Regret_Frontier)
-
+* [Pareto_Regret_Frontier] (https://github.com/antiface/Pareto_Regret_Frontier)
 * [juliangarcia/game_theory] (https://github.com/juliangarcia/game_theory)
 * [ecbtln/dynamics_sim] (https://github.com/ecbtln/dynamics_sim)
 * [ogaway/Game-Theory] (https://github.com/ogaway/Game-Theory)
